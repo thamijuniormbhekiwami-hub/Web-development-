@@ -1,0 +1,38 @@
+body{
+    background-color:rgba(158, 184, 206, 0.904);
+    font-family:cursive;
+    font-size:medium;
+    margin:0lh;
+    padding:auto;
+    color:rgb(13, 15, 15)
+}
+
+header{
+       text-align: center;
+       font-size: medium;  
+       color: black; 
+       background-color: aqua;
+       padding: 0%;
+       margin: auto;
+}
+ul{
+li{
+    font-size: large;
+    text-align: left;
+    word-spacing: normal;
+    list-style: decimal;
+}    
+}
+
+img{
+border: 0px;
+border-radius: inherit;
+margin: auto;
+}
+
+a{
+    color: beige;
+    text-decoration: solid;
+    padding: 0ex;
+    border-radius: 0cm;
+}
