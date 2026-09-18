@@ -9,3 +9,7 @@ ST 10491036 - Mbhekiwami Shezi • Create an increased brand recognition and onl
 • Vision: The vision is to have a fixed customer base and expand the business into different provinces. Digitalizing the business is also essential as the business wishes its customers order online rather than being physically near the store. To become South Africa’s most trusted local brand for fabric care products by 2030.
 
 • Target Audience: Households aged 05-55, laundromats, local township spaza shops, and small cleaning companies in urban or peri-urban areas.
+<br>
+<br>
+For Part 1 I have created an html website that deals with the structure of the website. As for Part 2, CSS was added to style the website and make it look appealing. This actually took me about a month to complete
+both part 1 and 2. 
