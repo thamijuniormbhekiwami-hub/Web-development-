@@ -15,3 +15,17 @@ For Part 1 I have created an html website that deals with the structure of the w
 both part 1 and 2. 
 
 Part 3 includes JavaScript for the website, this deals with all round interactivity of the website and user experience is improved. An enquiry page has been added to the websites if customers have specific needs, they can now fill the enquiry form and submit to the contact details given by the organization. This page allows customers to order, and types of orders are enlisted on the website making it easy to navigate what the customer actually wants. For example, you can select 2L of Fabric Softener and it will be delivered to your location. The contact page has also been enhanced, this adds features of our location, phone and WhatsApp number, email and working hours. For media purposes, users can follow us on TikTok and Facebook which are displayed by their icon color. JavaScript made the gallery of the website zoom in and out when clicked and it makes the appealing and interactive. The exact location link has been added to the contact if you want to be physically in store.     
+
+
+SITEMAP
+<?xml version="1.0" encoding= "UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+   <url><loc>https://your-site-url.netlify.app/index.html</loc><priority>1.0</priority></url>
+    <url><loc>https://your-site-url.netlify.app/about.html</loc><priority>0.8</priority></url>
+    <url><loc>https://your-site-url.netlify.app/contact us.html</loc><priority>0.8</priority></url>
+    <url><loc>https://your-site-url.netlify.app/home.html</loc><priority>0.9</priority></url>
+    <url><loc>https://your-site-url.netlify.app/products.html</loc><priority>0.9</priority></url>
+    <url><loc>https://your-site-url.netlify.app/product prices.html</loc><priority>1.0</priority></url>
+    <url><loc>https://your-site-url.netlify.app/enquiry.html</loc><priority>1.0</priority></url>
+</urlset>
+
